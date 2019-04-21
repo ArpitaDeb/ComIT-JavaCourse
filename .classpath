@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bookstore/adminportal/src/main/java"/>
+	<classpathentry kind="src" path="bookstore/adminportal/src/test/java"/>
+	<classpathentry kind="src" path="bookstore/Bookstore/src/main/java"/>
+	<classpathentry kind="src" path="bookstore/Bookstore/src/test/java"/>
+	<classpathentry kind="src" path="gs-actuator-service/complete/src/main/java"/>
+	<classpathentry kind="src" path="gs-actuator-service/complete/src/test/java"/>
+	<classpathentry kind="src" path="gs-actuator-service/initial/src/main/java"/>
+	<classpathentry kind="src" path="Java_exercise/IdeaProjects/Javaexercise/src"/>
+	<classpathentry kind="src" path="jdk-11.0.2_windows-x64_bin/march18javapractice/src"/>
+	<classpathentry kind="lib" path="bookstore/adminportal/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="bookstore/Bookstore/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="bookstore/Bookstore/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-actuator-service/complete/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-actuator-service/complete/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-actuator-service/initial/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-actuator-service/initial/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="gs-actuator-service/initial/target/gs-actuator-service-0.1.0.jar"/>
+	<classpathentry kind="lib" path="jdk-11.0.2_windows-x64_bin/jdk-11.0.2/lib/jrt-fs.jar"/>
+	<classpathentry kind="output" path="Java_exercise/IdeaProjects/Javaexercise/out/production/HelloWorld"/>
+</classpath>
